@@ -61,7 +61,7 @@ form.addEventListener('submit', e => {
         } else {
           outPut++; // if the outPut is not equals to score you must increment the outPut to reach the score by one.
         }
-      }, 60) // and we set the interval to last for 90 milliseconds.
+      }, 20) // and we set the interval to last for 90 milliseconds.
 
     }
   });
